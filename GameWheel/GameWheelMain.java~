@@ -1,0 +1,13 @@
+public class GameWheelMain {
+  
+  
+  public static void main(String[] args) { 
+    
+    GameWheel game = new Gamewheel();
+    
+    Slice a = game.spinWheel();
+    
+    
+  }
+  
+}
